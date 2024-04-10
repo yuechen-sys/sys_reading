@@ -5,9 +5,9 @@ My system paper reading notes.
 
 
 
-See [**Issues**](https://github.com/pentium3/sys_reading/issues)
+See [**Issues**](https://github.com/yuechen-sys/sys_reading/issues)
 
-[**Pinned Issues**](https://github.com/pentium3/sys_reading/milestone/1)
+[**Pinned Issues**](https://github.com/yuechen-sys/sys_reading/milestone/1)
 
 ---------------------------------------------
 
